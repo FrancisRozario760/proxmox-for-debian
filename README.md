@@ -5,4 +5,4 @@ git clone https://github.com/FrancisRozario760/proxmox-for-debian.git
 - ./install.sh
 ```
 
-[![Discord](https://img.shields.io/discord/1350387216865824799?label=Join%20Us&logo=discord&style=for-the-badge)](https://discord.gg/dUve3PuW)
+[![Discord](https://img.shields.io/discord/1350387216865824799?label=Join%20Us&logo=discord&style=for-the-badge)](https://discord.gg/ZWnD47KcaX)
