@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================
 # Automated Proxmox VE Installer (Debian 12)
-# Author: @Notlol95 (Discord) | Modified by CrashCloud
+# Author: @Notlol95 (Discord) Don't change credit
 # ==============================================
 
 set -e
